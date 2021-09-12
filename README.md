@@ -1,6 +1,8 @@
 # cncjs-pendant-jogpad
 cncjs-pendant-jogpad turn a generic cheap USB or bluetooth num pad into a fully customizable Grbl offline controller.
 
+![Kiku](ressources/jogpad_finish.jpg)
+
 ## Features
 - Fully customizable (edit keyboad.js)
 - Compatible with any num pad
